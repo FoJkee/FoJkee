@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Viktor Romanovsky
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript, HTML, CSS 
+Hello 👋
+I’m Viktor. I build, using code and a hammer.
 
 
 
